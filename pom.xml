@@ -22,6 +22,16 @@
         </license>
     </licenses>
 
+    <url>https://github.com/openmessaging/schemaregistry</url>
+
+    <developers>
+        <developer>
+            <id>Open Schema Registry</id>
+            <name>Open Schema Registry</name>
+            <url>https://github.com/openmessaging/schemaregistry</url>
+        </developer>
+    </developers>
+
     <scm>
         <url>git@github.com:openmessaging/schemaregistry.git</url>
         <connection>scm:git:git@github.com:openmessaging/schemaregistry.git</connection>
